@@ -1,4 +1,4 @@
-#nsml:mj1642/nipa:0.1
+#nsml: nsml/default_ml:cuda9_torch1.0
 
 from distutils.core import setup
 
